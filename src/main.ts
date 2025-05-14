@@ -5,4 +5,4 @@ const user: { name: string; age: number } = {
   age: 25,
 };
 
-user.age = "30";
+// user.age = "30";
